@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.chad.parry.org" name="kkjan kodi Repository" version="0.1.0" provider-name="kkjan">
+<addon id="kkjan.kkjanius.sk" name="kkjan kodi Repository" version="0.1.0" provider-name="kkjan">
     <extension point="xbmc.addon.repository" name="kkjan kodi Repository">
         <info compressed="false">https://raw.githubusercontent.com/kkjan/kkjan-kodi-repo/main/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/kkjan/kkjan-kodi-repo/main/addons.xml.md5</checksum>
