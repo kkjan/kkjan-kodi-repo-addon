@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="kkjan.kkjanius.sk" name="kkjan kodi Repository" version="0.2.0" provider-name="kkjan">
+<addon id="kkjan.kkjanius.sk" name="kkjan kodi Repository" version="0.2.1" provider-name="kkjan">
     <extension point="xbmc.addon.repository" name="kkjan kodi Repository">
-          <dir>
+          <dir minversion="19.0.0">
             <info compressed="false">https://raw.githubusercontent.com/kkjan/kkjan-kodi-repo/main/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/kkjan/kkjan-kodi-repo/main/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/kkjan/kkjan-kodi-repo/main/</datadir>
@@ -11,6 +11,8 @@
         <summary>kkjan Repository</summary>
         <description>A repository of add-ons that kkjan developed for a personal Kodi system</description>
         <disclaimer></disclaimer>
+        <news>0.2.1
+- kodi 19 and later</news>
         <news>0.1.0
 - initial</news>
         <platform>all</platform>
